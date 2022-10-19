@@ -1,0 +1,43 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-image: url(assets/9.jpeg);
+    
+} 
+
+#projects{
+    background-color: #154a52;
+}
+.title{
+    color: #008000;
+}
+.display-4{
+    font-weight: 500;
+    color: #DAA520;
+    text-shadow: 2px 0px  grey;
+}
+.lead{
+    font-weight: 400;
+    font-size: 30px;
+    color: #DAA520;
+}
+.navbar-brand{
+    font-weight: 600;
+}
+.btn{
+    background-color: #154a52 ;
+    width: 6cm;
+}
+.bi{
+    size-adjust: 50px;
+}
+.nav-link{
+    font-weight:500 ;
+}
+.bi{
+    color: black;
+    font-size: 25px;
+}
+section{
+    padding-top: 5rem;
+}
+Footer
